@@ -6,7 +6,7 @@ This project demonstrates the integration of data engineering, machine learning,
 
 ## Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](architecture.png)
 
 
 ## Components
